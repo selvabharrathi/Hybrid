@@ -22,7 +22,7 @@ public class Base {
 	{
 		p=new Properties();
 		try {
-			fis = new FileInputStream("D:\\jaSelenium\\hybrid\\src\\main\\java\\com\\qa\\config\\configration.properties");
+			fis = new FileInputStream("C:\\Users\\Bharathi\\git\\Hybrid\\src\\main\\java\\com\\qa\\config\\configration.properties");
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
